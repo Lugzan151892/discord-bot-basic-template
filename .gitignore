@@ -1,4 +1,3 @@
-test commands
 config.json
 
 
@@ -125,6 +124,7 @@ $tf/
 
 # Guidance Automation Toolkit
 *.gpState
+config.json
 
 # ReSharper is a .NET coding add-in
 _ReSharper*/
